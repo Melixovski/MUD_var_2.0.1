@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>MUD</Name>
+		<Assembly>MUD\MUD.dll</Assembly>
+		<AddInId>57062e2c-21e2-4c54-b72e-605a5077c4c6</AddInId>
+		<FullClassName>MUD.MainPanel</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

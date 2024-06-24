@@ -1,0 +1,71 @@
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\MUD.dll
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\MUD.pdb
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\AdWindows.dll
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\RevitAddInUtility.dll
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\RevitAPI.dll
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\RevitAPIUI.dll
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\UIFramework.dll
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\RevitAPI.xml
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\RevitAPIUI.xml
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.csproj.AssemblyReference.cache
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUDView.g.cs
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD_MarkupCompile.cache
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD_MarkupCompile.lref
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUDView.baml
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.g.resources
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.csproj.CoreCompileInputs.cache
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.csproj.Up2Date
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.dll
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.pdb
+C:\Users\vladm\source\repos\MUD\MUD\bin\Debug\VCRevitRibbonUtil.dll
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.Properties.Resources.resources
+C:\Users\vladm\source\repos\MUD\MUD\obj\Debug\MUD.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Университет\BIM\MUD\MUD\obj\Debug\MUD.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Университет\BIM\MUD\MUD\obj\Debug\MUDView.g.cs
+C:\Users\ADMIN\Desktop\Университет\BIM\MUD\MUD\obj\Debug\MUD_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Университет\BIM\MUD\MUD\obj\Debug\MUD_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Университет\BIM\MUD\MUD\obj\Debug\MUD.dll
+C:\Users\ADMIN\Desktop\Университет\BIM\MUD\MUD\obj\Debug\MUD.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\MUD.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\MUD.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\AdWindows.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\RevitAddInUtility.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\RevitAPI.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\RevitAPIUI.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\UIFramework.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\RevitAPI.xml
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\bin\Debug\RevitAPIUI.xml
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.csproj.AssemblyReference.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUDView.g.cs
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD_MarkupCompile.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD_MarkupCompile.lref
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUDView.baml
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.g.resources
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.Properties.Resources.resources
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.csproj.GenerateResource.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.csproj.CoreCompileInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.csproj.Up2Date
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2\MUD\MUD\obj\Debug\MUD.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.csproj.AssemblyReference.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUDView.g.cs
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD_MarkupCompile.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD_MarkupCompile.lref
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\MUD.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\MUD.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\AdWindows.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\IFCExporterUIOverride.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\RevitAddInUtility.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\RevitAPI.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\RevitAPIUI.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\UIFramework.dll
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\RevitAPI.xml
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\bin\Debug\RevitAPIUI.xml
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUDView.baml
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.g.resources
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.Properties.Resources.resources
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.csproj.GenerateResource.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.csproj.CoreCompileInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\MUD2 — копия\MUD\MUD\obj\Debug\MUD.csproj.Up2Date

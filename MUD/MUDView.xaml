@@ -1,0 +1,27 @@
+﻿<Window x:Class="MUD.MUDView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MUD"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" 
+        SizeToContent="WidthAndHeight">
+    <Grid x:Name="Table">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#FF4B0082">
+            <TextBox Text="{Binding FolderPath, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="300" Margin="10" Height="30"/>
+            <Button Content="Загрузить" Command="{Binding BrowseCommand}" Margin="10" Height="50" Width="65" Click="Button_Click"/>
+        </StackPanel>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding FilesList}" AutoGenerateColumns="False" x:Name="DatGr" SelectedItem="{Binding SelectedFile, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Header="" Binding="{Binding IsDownload}" MinWidth="20" x:Name="DownLoad"  />
+                <DataGridTextColumn Header="Шифр модели" Binding="{Binding FileName}" Width="200"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding RevFile}" Width="180"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
